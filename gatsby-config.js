@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `...`,
+    title: `pockets`,
     author: `Michael Cheng`,
     description: ``,
-    siteUrl: `http://www.pockets.github.com`,
+    siteUrl: `http://www.michaelzcheng.github.com`,
     social: {
     },
   },
